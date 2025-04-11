@@ -1,0 +1,72 @@
+.elementor-kit-6 {
+    --e-global-color-primary: #6EC1E4;
+    --e-global-color-secondary: #54595F;
+    --e-global-color-text: #7A7A7A;
+    --e-global-color-accent: #61CE70;
+    --e-global-color-debb5c5: #E3B83E;
+    --e-global-color-c88912e: #403C3280;
+    --e-global-color-2697959: #403C32;
+    --e-global-typography-primary-font-family: "Roboto";
+    --e-global-typography-primary-font-weight: 600;
+    --e-global-typography-secondary-font-family: "Roboto Slab";
+    --e-global-typography-secondary-font-weight: 400;
+    --e-global-typography-text-font-family: "Roboto";
+    --e-global-typography-text-font-weight: 400;
+    --e-global-typography-accent-font-family: "Roboto";
+    --e-global-typography-accent-font-weight: 500;
+    --e-global-typography-1e53c66-font-family: "Poppins";
+    --e-global-typography-1e53c66-font-size: 36px;
+    --e-global-typography-1e53c66-font-weight: 400;
+    --e-global-typography-1bae2a6-font-family: "Poppins";
+    --e-global-typography-1bae2a6-font-size: 18px;
+    --e-global-typography-1bae2a6-font-weight: 400;
+}
+
+.elementor-kit-6 e-page-transition {
+    background-color: #FFBC7D;
+}
+
+.elementor-section.elementor-section-boxed > .elementor-container {
+    max-width: 1140px;
+}
+
+.e-con {
+    --container-max-width: 1140px;
+}
+
+.elementor-widget:not(:last-child) {
+    margin-block-end: 20px;
+}
+
+.elementor-element {
+    --widgets-spacing: 20px 20px;
+    --widgets-spacing-row: 20px;
+    --widgets-spacing-column: 20px;
+}
+
+ {
+}
+
+h1.entry-title {
+    display: var(--page-title-display);
+}
+
+@media (max-width:1024px){
+    .elementor-section.elementor-section-boxed > .elementor-container {
+        max-width: 1024px;
+    }
+
+    .e-con {
+        --container-max-width: 1024px;
+    }
+}
+
+@media (max-width:767px){
+    .elementor-section.elementor-section-boxed > .elementor-container {
+        max-width: 767px;
+    }
+
+    .e-con {
+        --container-max-width: 767px;
+    }
+}
