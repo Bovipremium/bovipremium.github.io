@@ -33,11 +33,4 @@
             { "text": "Objeto está em - Brasília-DF", "time": "30/04/2025 08:51" },
             { "text": "Objeto está em rota para  - Petrolina-PE", "time": "02/05/2025 09:21" }
         ]
-    }
-}BP10014-BR": {
-        "status": [
-            { "text": "Objeto retirado pela transportadora - Anápolis-GO", "time": "26/04/2025 10:45" },
-            { "text": "PREVISÃO DE ENTREGA - 12/05/2025", "time": "19/05/2025" },
-            { "text": "Objeto está em - Brasília-DF", "time": "30/04/2025 08:51" },
-            { "text": "Objeto está em rota para  - Petrolina-PE", "time": "02/05/2025 09:21" }
-        ]
+},
