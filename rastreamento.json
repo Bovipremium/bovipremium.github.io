@@ -35,12 +35,20 @@
             { "text": "Objeto está em rota para  - Ponta Grossa-PR", "time": "28/04/2025 15:21" }
         ]
     },
-    "DIGITO-1": {
+    "para editar": {
         "status": [
             { "text": "Objeto em trânsito para São Paulo", "time": "23/03/2023 09:00" },
             { "text": "Passou por Guarulhos", "time": "23/03/2023 11:00" },
             { "text": "Em rota de entrega", "time": "23/03/2023 14:00" },
             { "text": "Entregue no endereço", "time": "23/03/2023 16:30" }
+        ]
+    },
+    "Para editar2": {
+        "status": [
+            { "text": "Objeto retirado pela transportadora - Anápolis-GO", "time": "26/04/2025 10:45" },
+            { "text": "PREVISÃO DE ENTREGA - 12/05/2025", "time": "26/04/2025" },
+            { "text": "Objeto está em - Goiânia-GO", "time": "28/04/2025 08:51" },
+            { "text": "Objeto está em rota para  - Ponta Grossa-PR", "time": "28/04/2025 15:21" }
         ]
     }
 }
