@@ -1,0 +1,19 @@
+
+{
+    "DIGITO2": {
+        "status": [
+            { "text": "Objeto retirado pela transportadora - RIO GRANDE", "time": "22/03/2023 06:45" },
+            { "text": "Objeto está em rota - Leopoldo", "time": "22/03/2023 08:51" },
+            { "text": "Objeto está em rota de entrega - nova crachás", "time": "22/03/2023 15:21" },
+            { "text": "Objeto entregue ao destinatário", "time": "22/03/2023 15:29" }
+        ]
+    },
+    "DIGITO": {
+        "status": [
+            { "text": "Objeto em trânsito para São Paulo", "time": "23/03/2023 09:00" },
+            { "text": "Passou por Guarulhos", "time": "23/03/2023 11:00" },
+            { "text": "Em rota de entrega", "time": "23/03/2023 14:00" },
+            { "text": "Entregue no endereço", "time": "23/03/2023 16:30" }
+        ]
+    }
+}
