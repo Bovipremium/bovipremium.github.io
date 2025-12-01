@@ -9,12 +9,32 @@
       { "text": "Objeto está em - Cáceres-MT", "time": "10/11/2025 12:00" }
     ]
   },
-  "DIGITO": {
+  "BP600-BR": {
     "status": [
-      { "text": "Objeto em trânsito para São Paulo", "time": "23/03/2023 09:00" },
-      { "text": "Passou por Guarulhos", "time": "23/03/2023 11:00" },
-      { "text": "Em rota de entrega", "time": "23/03/2023 14:00" },
-      { "text": "Entregue no endereço", "time": "23/03/2023 16:30" }
+     { "text": "Objeto retirado pela transportadora - Anápolis-GO", "time": "15/10/2025 09:32" },
+        { "text": "PREVISÃO DE ENTREGA - 31/10/2025", "time": "15/10/2025" },
+        { "text": "Objeto está em rota para - Goiânia-GO", "time": "16/10/2025 17:10" },
+        { "text": "Objeto está em - Goiânia-GO", "time": "17/10/2025 08:44" },
+        { "text": "Objeto está em rota para - Brasília-DF", "time": "17/10/2025 15:58" },
+        { "text": "Objeto está em - Brasília-DF", "time": "18/10/2025 09:11" },
+        { "text": "Objeto está em rota para - Barreiras-BA", "time": "20/10/2025 14:20" },
+        { "text": "Objeto está em - Barreiras-BA", "time": "21/10/2025 08:37" },
+        { "text": "Objeto está em rota para - Irecê-BA", "time": "22/10/2025 13:29" },
+        { "text": "Objeto está em - Irecê-BA", "time": "23/10/2025 09:02" },
+        { "text": "1ª tentativa de entrega realizada - Destinatário ausente", "time": "24/10/2025 16:25" },
+        { "text": "2ª tentativa de entrega realizada - Destinatário ausente ", "time": "27/10/2025 15:18" },
+        { "text": "3ª tentativa de entrega realizada - Destinatário ausente", "time": "30/10/2025 14:56" },
+        { "text": "Objeto em devolução ao remetente - Saindo de Irecê-BA", "time": "31/10/2025 17:40" },
+        { "text": "Objeto está em rota para - Barreiras-BA", "time": "03/11/2025 09:10" },
+        { "text": "Objeto está em - Barreiras-BA", "time": "04/11/2025 08:31" },
+        { "text": "Objeto está em rota para - Brasília-DF", "time": "07/11/2025 11:55" },
+        { "text": "Objeto está em - Brasília-DF", "time": "09/11/2025 10:22" },
+        { "text": "Objeto está em rota para - Abadiânia-GO", "time": "27/11/2025 15:47" },
+        { "text": "Objeto está em - Abadiânia-GO", "time": "28/11/2025 09:06" },
+        { "text": "Objeto está em rota para - Alexânia-GO", "time": "29/11/2025 13:44" },
+        { "text": "Objeto está em - Alexânia-GO", "time": "30/11/2025 10:05" },
+        { "text": "Objeto está em - Padre Bernardo-GO", "time": "01/12/2025 16:11" },
+        { "text": "Objeto a caminho do centro de distribuição - Anápolis-GO", "time": "01/12/2025 17:58" }
     ]
   },
   "BP200-BR": {
@@ -105,34 +125,6 @@
       { "text": "Objeto está em rota para - Brasilia-DF", "time": "27/11/2025 17:21" }
     ]
   },
-  "BP600-BR": {
-    "status": [
-        { "text": "Objeto retirado pela transportadora - Anápolis-GO", "time": "15/10/2025 09:32" },
-        { "text": "PREVISÃO DE ENTREGA - 31/10/2025", "time": "15/10/2025" },
-        { "text": "Objeto está em rota para - Goiânia-GO", "time": "16/10/2025 17:10" },
-        { "text": "Objeto está em - Goiânia-GO", "time": "17/10/2025 08:44" },
-        { "text": "Objeto está em rota para - Brasília-DF", "time": "17/10/2025 15:58" },
-        { "text": "Objeto está em - Brasília-DF", "time": "18/10/2025 09:11" },
-        { "text": "Objeto está em rota para - Barreiras-BA", "time": "20/10/2025 14:20" },
-        { "text": "Objeto está em - Barreiras-BA", "time": "21/10/2025 08:37" },
-        { "text": "Objeto está em rota para - Irecê-BA", "time": "22/10/2025 13:29" },
-        { "text": "Objeto está em - Irecê-BA", "time": "23/10/2025 09:02" },
-        { "text": "1ª tentativa de entrega realizada - Destinatário ausente", "time": "24/10/2025 16:25" },
-        { "text": "2ª tentativa de entrega realizada - Destinatário ausente ", "time": "27/10/2025 15:18" },
-        { "text": "3ª tentativa de entrega realizada - Destinatário ausente", "time": "30/10/2025 14:56" },
-        { "text": "Objeto em devolução ao remetente - Saindo de Irecê-BA", "time": "31/10/2025 17:40" },
-        { "text": "Objeto está em rota para - Barreiras-BA", "time": "03/11/2025 09:10" },
-        { "text": "Objeto está em - Barreiras-BA", "time": "04/11/2025 08:31" },
-        { "text": "Objeto está em rota para - Brasília-DF", "time": "07/11/2025 11:55" },
-        { "text": "Objeto está em - Brasília-DF", "time": "09/11/2025 10:22" },
-        { "text": "Objeto está em rota para - Abadiânia-GO", "time": "27/11/2025 15:47" },
-        { "text": "Objeto está em - Abadiânia-GO", "time": "28/11/2025 09:06" },
-        { "text": "Objeto está em rota para - Alexânia-GO", "time": "29/11/2025 13:44" },
-        { "text": "Objeto está em - Alexânia-GO", "time": "30/11/2025 10:05" },
-        { "text": "Objeto está em - Padre Bernardo-GO", "time": "01/12/2025 16:11" },
-        { "text": "Objeto a caminho do centro de distribuição - Anápolis-GO", "time": "01/12/2025 17:58" }
-    ]
-}
 
     ]
   }
